@@ -3,6 +3,14 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <stdio.h>
+
+/***********************************************************************
+ * Module:  Apli.cpp
+ * Author:  Angel castillo
+ * Modified: martes, 2 de junio de 2020 9:10:38
+ * Carrera:Software
+ * NRC: 6396 
+ ***********************************************************************/
 using namespace std;
 
 int main(int argc, char *argv[]){
